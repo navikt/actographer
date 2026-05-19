@@ -1,0 +1,16 @@
+output/
+
+# Local build artifacts
+/actographer
+/coverage.out
+/*.test
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS noise
+.DS_Store
+.idea/
+.vscode/
