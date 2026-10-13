@@ -2,7 +2,7 @@
 
 Ever wondered what lies under the tip of the iceberg that is `uses: <namespace>/action@<ref>` in your workflow? Actographer can help!
 
-Meant as a tool for GitHub Actions workflow dependency indexing, you can point it at a repo (or an org) and it will find workflow files, traverse and build a dependency tree including both direct and transitive dependencies, and then output a structured inventory for audit and analysis.
+Meant as a tool for GitHub Actions workflow dependency indexing, you can point it at a repo (or an org) and it will find workflow files, traverse and build a dependency tree including both direct and transitive dependencies, and then output a structured inventory for audit and analysis. 
 
 ## Install
 
